@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="calculate">Вычислить</string>
+    <string name="FirstNumber">Первое число</string>
+    <string name="SecondNum">Второе число</string>
+    <string name="Result">Результат</string>
+    <string name="Sign">Знак</string>
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+</resources>
